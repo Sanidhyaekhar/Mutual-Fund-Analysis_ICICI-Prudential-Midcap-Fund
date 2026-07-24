@@ -52,7 +52,7 @@ of future returns.
 ## 📎 File
 The full analysis is available in [Excel Analysis Report](./ICICI%20Midcap%20Fund%20Analysis%20Report.xlsx) — download and open in Excel for full formatting, charts, and interactivity.
 
-You can also [Download the PDF Analysis Report](./ICICI%20Midcap%20Fund%20-%20Analysis%20Report.pdf) for direct print of the document.
+You can also download the [PDF Analysis Report](./ICICI%20Midcap%20Fund%20-%20Analysis%20Report.pdf) for direct print of the document.
 
 **Author:** Sanidhya Ekhar
 [LinkedIn](https://www.linkedin.com/in/sanidhya-ekhar) · ekharsanidhya@gmail.com
