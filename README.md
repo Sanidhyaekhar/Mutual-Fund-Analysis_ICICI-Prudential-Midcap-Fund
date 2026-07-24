@@ -1,4 +1,3 @@
-# Mutual-Fund-Analysis_ICICI-Prudential-Midcap-Fund
 # ICICI Prudential Mid Cap Fund — Mutual Fund Analysis Report
 
 An independent analysis report on **ICICI Prudential Mid Cap Fund (Direct Plan)**, built in Excel, covering return analysis, risk-adjusted performance, and portfolio composition — benchmarked against the Nifty Midcap 150 TRI, Nifty 50 TRI, and category averages.
