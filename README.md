@@ -40,7 +40,7 @@ Interpretation of Overall fund , it's Return, Risk and portfolio is written afte
 
 ## 📂 Data Sources
 
-ICICI Prudential AMC factsheet, Morningstar, Value Research Online, RupeeVest — data as on 30 June 2026.
+ ICICI Prudential AMC factsheet, Morningstar, Value Research Online, RupeeVest - data as on 31st August 2026.
 
 ## ⚠️ Disclaimer
 
