@@ -50,9 +50,9 @@ Mutual Fund investments are subject to market risks, read all scheme related doc
 of future returns.
 
 ## 📎 File
-The full analysis is available in [Excel Analysis Report](./ICICI%20Midcap%20Fund%20Analysis%20Report.xlsx) — download and open in Excel for full formatting, charts, and interactivity.
+The full analysis is available in the [Excel Analysis Report](https://github.com/Sanidhyaekhar/Mutual-Fund-Analysis_ICICI-Prudential-Midcap-Fund/blob/main/Icici%20Prudential%20Mid%20Cap%20Fund%20Note%20as%20on%2031st%20Aug%202026.xlsx) — download and open in Excel for full formatting, charts, and interactivity.
 
-You can also download the [PDF Analysis Report](./ICICI%20Midcap%20Fund%20-%20Analysis%20Report.pdf) for direct print of the document.
+You can also download the [PDF Analysis Report](https://github.com/Sanidhyaekhar/Mutual-Fund-Analysis_ICICI-Prudential-Midcap-Fund/blob/main/Icici%20Prudential%20Mid%20Cap%20Fund%20Note%20as%20on%2031st%20Aug%202026.pdf) for direct print of the document.
 
 **Author:** Sanidhya Ekhar
 [LinkedIn](https://www.linkedin.com/in/sanidhya-ekhar) · ekharsanidhya@gmail.com
